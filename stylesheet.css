@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    font-family: Montserrat;
+    padding: 30px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    font-family: Montserrat;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    font-family: Montserrat;
+    color: white;
+    padding: 40px 40px 40px 40px;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: #7bb72f;
+
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+
+/* Change color on hover */
+.navbar a:hover {
+    background-color: greenyellow;
+    color: white;
+  }
+
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 40px;
+
+}
+
+*{
+padding: 0;
+margin: 0;
+}
+
+span.c {
+    align-content: center;
+    display: block;
+    width: 1198.5px;
+    height: 100px;
+    padding: 40px;  
+    background-color: #15bdac;
+    font-family: Montserrat;
+    font-size: medium;
+    color: white;
+    text-align: center;
+  }
